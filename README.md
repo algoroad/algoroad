@@ -1,14 +1,10 @@
-# Hi there, I'm David Harvey 👋
+## Hi there, I'm David Harvey 👋
 
-👨‍💻 I'm a Software Engineer focused on low-level programming and AI-enabled embedded systems.
-
-🧠 I combine mathematics-driven computer science with real-world impact, working primarily in C++, Python, and Rust.
-
-🌍 I have a background in business and finance and experience in consulting at Amazon and Accenture.
-
-💡 I'm passionate about building performant, reliable solutions at the intersection of deep tech and strategic innovation.
-
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) • [Website](https://YOUR-WEBSITE.com)
+👨‍💻 Software Engineer in embedded AI.
+🧠 Math-driven CS with C++, Python.
+🌍 Business background, Amazon, Accenture experience.
+💡 Building fast, reliable deep-tech solutions.
+📫 Contact: LinkedIn • Website
 
 ---
 
