@@ -1,10 +1,10 @@
 ## Hi there, I'm David Harvey 👋
 
-👨‍💻 Software Engineer in embedded AI.
-🧠 Math-driven CS with C++, Python.
-🌍 Business background, Amazon, Accenture experience.
-💡 Building fast, reliable deep-tech solutions.
-📫 Contact: LinkedIn • Website
+- 👨‍💻 Software Engineer in embedded AI.
+- 🧠 Math-driven CS with C++, Python.
+- 🌍 Business background, Amazon, Accenture experience.
+- 💡 Building fast, reliable deep-tech solutions.
+- 📫 Contact: [LinkedIn](https://www.linkedin.com/in/daviddharvey/) • [Website](https://davidharvey.co)
 
 ---
 
