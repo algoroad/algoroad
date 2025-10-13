@@ -37,19 +37,24 @@ Check out my [personal website!](https://davidharvey.co/)
 
 ## 🌐 Products I've Released: 
 
-Outfitt
+Outfitt - Personal AI Fashion Assistant (React Native, Swift, Expo, Typescript, PostgreSQL, Python, Replicate)
 
-Dropshark
+Dropshark - Create Shopify Product Pages With AI (NextJS, Flask, Python, Javascript, Tailwind, Shopify API, Firebase)
+(Includes Custom Cloud-Run Web Scraping Proxy and License Key Infrastructure)
 
-Workbench
+Workbench - Turn user stories into web apps in seconds (Python, NextJS, MongoDB, SQL, Typescript, Javascript, Heroku, Github API)
+(Creates Github repository for you so you can run app with one line of code)
+
 
 ## 🌐 Other Projects I'm Proud Of: 
 
-RNN Trading Algorithm
+[Kaggle IEEE Fraud Detection Data Science Competition Bronze Medal](https://www.kaggle.com/certification/competitions/optimalfit/ieee-fraud-detection)
 
-In Ear Language Translation Headset
+[Recurent Neural Network powered Trading Algorithm with live deployment on MetaTrader4 software (Python, Tensorflow, Keras, Interactive Brokers, Metatrader)](https://davidharvey.io/rnn-stock-forex-infrastructure/)
 
-Percy AI
+[In Ear Language Translation Headset](https://davidharvey.io/on-the-move-language-translation/)
+
+[Percy - Automatic Receipt & Invoice Data Extraction](https://davidharvey.io/percy-receipt-data-extraction-ai/)
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daviddharvey/)
