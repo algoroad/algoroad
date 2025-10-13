@@ -37,12 +37,13 @@ Check out my [personal website!](https://davidharvey.co/)
 
 ## 🌐 Products I've Released: 
 
-Outfitt - Personal AI Fashion Assistant (React Native, Swift, Expo, Typescript, PostgreSQL, Python, Replicate)
+[Outfitt](https://apps.apple.com/app/outfitt-dress-well/id6749678330): Personal AI Fashion Assistant (React Native, Swift, Expo, Typescript, PostgreSQL, Python, Replicate)
+(live on the app store! 🥳)
 
-Dropshark - Create Shopify Product Pages With AI (NextJS, Flask, Python, Javascript, Tailwind, Shopify API, Firebase)
+[Dropshark](dropshark-ciqd4b5t8-my-team-9beb65ae.vercel.app): Create Shopify Product Pages With AI (NextJS, Flask, Python, Javascript, Tailwind, Shopify API, Firebase)
 (Includes Custom Cloud-Run Web Scraping Proxy and License Key Infrastructure)
 
-Workbench - Turn user stories into web apps in seconds (Python, NextJS, MongoDB, SQL, Typescript, Javascript, Heroku, Github API)
+[Workbench](https://polite-medovik-52ef87.netlify.app/): Turn user stories into web apps in seconds (Python, NextJS, MongoDB, SQL, Typescript, Javascript, Heroku, Github API)
 (Creates Github repository for you so you can run app with one line of code)
 
 
@@ -54,7 +55,7 @@ Workbench - Turn user stories into web apps in seconds (Python, NextJS, MongoDB,
 
 [In Ear Language Translation Headset](https://davidharvey.io/on-the-move-language-translation/)
 
-[Percy - Automatic Receipt & Invoice Data Extraction](https://davidharvey.io/percy-receipt-data-extraction-ai/)
+[Percy: Automatic Receipt & Invoice Data Extraction](https://davidharvey.io/percy-receipt-data-extraction-ai/)
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daviddharvey/)
