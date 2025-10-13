@@ -37,6 +37,8 @@ Check out my [personal website!](https://davidharvey.co/)
 
 ## 🌐 Products I've Released: 
 
+Outfitt
+
 Dropshark
 
 Workbench
