@@ -5,7 +5,7 @@ I am a Computer Science Masters student at Queen Mary University of London, pass
 
 ## 🚀 What I'm Up To
 
-- 🤖 Studying hard and planning my Masters project (I can't wait to start working on it!)
+- 🤖 Studying hard and planning my Masters project
 - 💻 Working on [Goals](https://trygoals.co/), an IOS social fitness accountability app.
 
 Check out my [personal website!](https://davidharvey.co/)
