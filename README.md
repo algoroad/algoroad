@@ -37,11 +37,11 @@ Check out my [personal website!](https://davidharvey.co/)
 
 ## 💡 Products I've Released: 
 
-🧥 [Outfitt](https://apps.apple.com/app/outfitt-dress-well/id6749678330): AI-powered personal fashion stylist (React Native, Swift, TypeScript, PostgreSQL, Supabase, Python, Replicate) <br/> *Live on the app store*
+🧥 [Outfitt](https://apps.apple.com/app/outfitt-dress-well/id6749678330): AI-powered personal fashion stylist (React Native, Swift, TypeScript, PostgreSQL, Supabase, Python, Replicate) <br/> *Now live on the App Store.*
 
-🛍️ [Dropshark](https://dropshark-ciqd4b5t8-my-team-9beb65ae.vercel.app): AI for Shopify Product Pages (NextJS, Flask, Python, Javascript, Tailwind, Shopify API, Firebase) <br/> *Includes custom cloud-run web scraping proxy and license key infrastructure*
+🛍️ [Dropshark](https://dropshark-ciqd4b5t8-my-team-9beb65ae.vercel.app): AI for Shopify Product Pages (NextJS, Flask, Python, Javascript, Tailwind, Shopify API, Firebase) <br/> *Features a custom Cloud Run web-scraping proxy and license-key infrastructure.*
 
-⚙️ [Workbench](https://polite-medovik-52ef87.netlify.app/): Turn user stories into deployable web apps (Python, NextJS, MongoDB, SQL, Typescript, Javascript, Heroku, Github API)  <br/> *Creates Github repository for you so you can run app with one line of code*
+⚙️ [Workbench](https://polite-medovik-52ef87.netlify.app/): Turn user stories into deployable web apps (Python, NextJS, MongoDB, SQL, Typescript, Javascript, Heroku, Github API)  <br/> *Automatically creates a GitHub repository so the app can run with a single command.*
 
 
 ## 🔬 Other Projects I'm Proud Of: 
