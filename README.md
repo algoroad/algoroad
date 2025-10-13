@@ -53,7 +53,7 @@ Check out my [personal website!](https://davidharvey.co/)
 
 [Recurent Neural Network powered Trading Algorithm with live deployment on MetaTrader4 software (Python, Tensorflow, Keras, Interactive Brokers, Metatrader)](https://davidharvey.io/rnn-stock-forex-infrastructure/)
 
-[Atmos](https://heyatmos.com): CSRD Reporting Software. Discontinued, but good stories to tell and I'm proud of my webpage design.
+[Atmos](https://heyatmos.com): CSRD Reporting Software. Discontinued, but good stories to tell (including pitching to large VCs and executing a successful B2B LinkedIn ads campaign) and I'm proud of my webpage design.
 
 [In Ear Language Translation Headset](https://davidharvey.io/on-the-move-language-translation/)
 
