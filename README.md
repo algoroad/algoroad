@@ -38,7 +38,7 @@ Check out my [personal website!](https://davidharvey.co/)
 ## 🌐 Products I've Released: 
 
 [Outfitt](https://apps.apple.com/app/outfitt-dress-well/id6749678330): Personal AI Fashion Assistant (React Native, Swift, Expo, Typescript, PostgreSQL, Python, Replicate)
-(live on the app store! 🥳)
+(live on the app store)
 
 [Dropshark](https://dropshark-ciqd4b5t8-my-team-9beb65ae.vercel.app): Create Shopify Product Pages With AI (NextJS, Flask, Python, Javascript, Tailwind, Shopify API, Firebase)
 (Includes Custom Cloud-Run Web Scraping Proxy and License Key Infrastructure)
