@@ -37,31 +37,20 @@ Check out my [personal website!](https://davidharvey.co/)
 
 ## 💡 Products I've Released: 
 
-🧥 [Outfitt](https://apps.apple.com/app/outfitt-dress-well/id6749678330): AI-powered personal fashion stylist (React Native, Swift, TypeScript, PostgreSQL, Supabase, Python, Replicate)
-Live on the app store
+🧥 [Outfitt](https://apps.apple.com/app/outfitt-dress-well/id6749678330): AI-powered personal fashion stylist (React Native, Swift, TypeScript, PostgreSQL, Supabase, Python, Replicate) <br/> *Live on the app store*
 
-🛍️ [Dropshark](https://dropshark-ciqd4b5t8-my-team-9beb65ae.vercel.app): AI for Shopify Product Pages (NextJS, Flask, Python, Javascript, Tailwind, Shopify API, Firebase)
-Includes custom cloud-run web scraping proxy and license key infrastructure
+🛍️ [Dropshark](https://dropshark-ciqd4b5t8-my-team-9beb65ae.vercel.app): AI for Shopify Product Pages (NextJS, Flask, Python, Javascript, Tailwind, Shopify API, Firebase) <br/> *Includes custom cloud-run web scraping proxy and license key infrastructure*
 
-⚙️ [Workbench](https://polite-medovik-52ef87.netlify.app/): Turn user stories into deployable web apps (Python, NextJS, MongoDB, SQL, Typescript, Javascript, Heroku, Github API)
-Creates Github repository for you so you can run app with one line of code
+⚙️ [Workbench](https://polite-medovik-52ef87.netlify.app/): Turn user stories into deployable web apps (Python, NextJS, MongoDB, SQL, Typescript, Javascript, Heroku, Github API)  <br/> *Creates Github repository for you so you can run app with one line of code*
 
 
 ## 🔬 Other Projects I'm Proud Of: 
 
-[Recurent Neural Network powered Trading Algorithm with live deployment on MetaTrader4 software (Python, Tensorflow, Keras, Interactive Brokers, Metatrader)](https://davidharvey.io/rnn-stock-forex-infrastructure/)
-
-[Atmos](https://heyatmos.com): CSRD Reporting Software. Discontinued, but good stories to tell (including pitching to large VCs and executing a successful B2B LinkedIn ads campaign) and I'm proud of my webpage design.
-
-[In Ear Language Translation Headset](https://davidharvey.io/on-the-move-language-translation/)
-
-[Percy: Automatic Receipt & Invoice Data Extraction](https://davidharvey.io/percy-receipt-data-extraction-ai/)
-
-🥉 [Kaggle IEEE Fraud Detection](https://www.kaggle.com/certification/competitions/optimalfit/ieee-fraud-detection): Bronze Medal – predictive modeling using ensemble techniques
-💹 [RNN Trading Infrastructure](https://davidharvey.io/rnn-stock-forex-infrastructure/): Automated trading system using TensorFlow and MetaTrader4
-🌍 [Atmos](https://heyatmos.com): CSRD reporting platform (discontinued) — pitched to VCs and ran a successful B2B campaign
-🎧 [In-Ear Language Translation Headset](https://davidharvey.io/on-the-move-language-translation/): Real-time language translation prototype
-🧾 [Percy](https://davidharvey.io/percy-receipt-data-extraction-ai/): AI pipeline for automatic receipt and invoice parsing
+- 🥉 [Kaggle IEEE Fraud Detection](https://www.kaggle.com/certification/competitions/optimalfit/ieee-fraud-detection): Bronze Medal – predictive modeling using ensemble techniques
+- 💹 [RNN Trading Infrastructure](https://davidharvey.io/rnn-stock-forex-infrastructure/): Automated trading system using TensorFlow and MetaTrader4
+- 🌍 [Atmos](https://heyatmos.com): CSRD reporting platform (discontinued) — pitched to VCs and ran a successful B2B campaign
+- 🎧 [In-Ear Language Translation Headset](https://davidharvey.io/on-the-move-language-translation/): Real-time language translation prototype
+- 🧾 [Percy](https://davidharvey.io/percy-receipt-data-extraction-ai/): AI pipeline for automatic receipt and invoice parsing
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daviddharvey/)
