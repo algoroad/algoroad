@@ -30,6 +30,11 @@ Check out my [personal website!](https://davidharvey.co/)
 - 🏆 Worldcoin - Pool Prize
 - 📅 March 2024
 
+**ETH Oxford**
+- 🏗️ [Stealthfolio]([https://ethglobal.com/showcase/mystic-dex-me14f](https://github.com/SwineCoder101/stealthfolio))
+- 🏆 Solana - 1st Place
+- 📅 February 2024
+- 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daviddharvey/)
 
