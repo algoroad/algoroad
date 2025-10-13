@@ -5,13 +5,13 @@ I’m an MSc Computer Science student at Queen Mary University of London, passio
 
 ## 🚀 What I'm Up To
 
-- 🎓 Studying hard and planning my Masters project
-- 💻 Working on [Goals](https://trygoals.co/), an IOS social fitness accountability app.
+🎓 Completing my master’s research project
+💻 Building [Goals](https://trygoals.co/) — a social fitness accountability app for iOS
 
 Check out my [personal website!](https://davidharvey.co/)
 
 
-## Honors & Awards
+## 🏆 Honors & Awards
 
 **ETH Global Hackathon - ETH Global Brussels**
 - 🏗️ [Net Zero](https://ethglobal.com/showcase/net-zero-msor7)
@@ -35,21 +35,19 @@ Check out my [personal website!](https://davidharvey.co/)
 - 🏆 Solana - 1st Place
 - 📅 February 2024
 
-## 🌐 Products I've Released: 
+## 💡 Products I've Released: 
 
-[Outfitt](https://apps.apple.com/app/outfitt-dress-well/id6749678330): Personal AI Fashion Assistant (React Native, Swift, Expo, Typescript, PostgreSQL, Python, Replicate)
-(live on the app store)
+🧥 [Outfitt](https://apps.apple.com/app/outfitt-dress-well/id6749678330): AI-powered personal fashion stylist (React Native, Swift, TypeScript, PostgreSQL, Supabase, Python, Replicate)
+Live on the app store
 
-[Dropshark](https://dropshark-ciqd4b5t8-my-team-9beb65ae.vercel.app): Create Shopify Product Pages With AI (NextJS, Flask, Python, Javascript, Tailwind, Shopify API, Firebase)
-(Includes Custom Cloud-Run Web Scraping Proxy and License Key Infrastructure)
+🛍️ [Dropshark](https://dropshark-ciqd4b5t8-my-team-9beb65ae.vercel.app): AI for Shopify Product Pages (NextJS, Flask, Python, Javascript, Tailwind, Shopify API, Firebase)
+Includes custom cloud-run web scraping proxy and license key infrastructure
 
-[Workbench](https://polite-medovik-52ef87.netlify.app/): Turn user stories into web apps in seconds (Python, NextJS, MongoDB, SQL, Typescript, Javascript, Heroku, Github API)
-(Creates Github repository for you so you can run app with one line of code)
+⚙️ [Workbench](https://polite-medovik-52ef87.netlify.app/): Turn user stories into deployable web apps (Python, NextJS, MongoDB, SQL, Typescript, Javascript, Heroku, Github API)
+Creates Github repository for you so you can run app with one line of code
 
 
-## 🌐 Other Projects I'm Proud Of: 
-
-[Kaggle IEEE Fraud Detection Data Science Competition Bronze Medal](https://www.kaggle.com/certification/competitions/optimalfit/ieee-fraud-detection)
+## 🔬 Other Projects I'm Proud Of: 
 
 [Recurent Neural Network powered Trading Algorithm with live deployment on MetaTrader4 software (Python, Tensorflow, Keras, Interactive Brokers, Metatrader)](https://davidharvey.io/rnn-stock-forex-infrastructure/)
 
@@ -58,6 +56,12 @@ Check out my [personal website!](https://davidharvey.co/)
 [In Ear Language Translation Headset](https://davidharvey.io/on-the-move-language-translation/)
 
 [Percy: Automatic Receipt & Invoice Data Extraction](https://davidharvey.io/percy-receipt-data-extraction-ai/)
+
+🥉 [Kaggle IEEE Fraud Detection](https://www.kaggle.com/certification/competitions/optimalfit/ieee-fraud-detection): Bronze Medal – predictive modeling using ensemble techniques
+💹 [RNN Trading Infrastructure](https://davidharvey.io/rnn-stock-forex-infrastructure/): Automated trading system using TensorFlow and MetaTrader4
+🌍 [Atmos](https://heyatmos.com): CSRD reporting platform (discontinued) — pitched to VCs and ran a successful B2B campaign
+🎧 [In-Ear Language Translation Headset](https://davidharvey.io/on-the-move-language-translation/): Real-time language translation prototype
+🧾 [Percy](https://davidharvey.io/percy-receipt-data-extraction-ai/): AI pipeline for automatic receipt and invoice parsing
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daviddharvey/)
