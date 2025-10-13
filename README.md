@@ -11,6 +11,23 @@ I am a Computer Science Masters student at Queen Mary University of London, pass
 Check out my [personal website!](https://davidharvey.co/)
 
 
+## Honors & Awards
+
+**ETH Global Hackathon - ETH Global Brussels**
+- 🏗️ [Net Zero](https://ethglobal.com/showcase/net-zero-msor7)
+- 🏆 Flare Network - Most Innovative Application
+- 🏆 Celo - Best dApps Built for MiniPay
+- 🏆 Hyperlane - Best Use of Hyperlane
+- 🏆 Arbitrum - Stylus Project
+- 🏆 Blockscout - Pool Prize
+- 📅 July 2024
+
+**ETH Global Hackathon - ETH Global London**
+- 🏗️ [Zycket](https://ethglobal.com/showcase/zycket-hxc9f)
+- 🏆 Chiliz - Pool Prize
+- 🏆 Arbitrum - Qualifying Arbitrum
+- 📅 March 2024
+
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daviddharvey/)
 
