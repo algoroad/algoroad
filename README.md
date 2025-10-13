@@ -5,8 +5,8 @@ I’m an MSc Computer Science student at Queen Mary University of London, passio
 
 ## 🚀 What I'm Up To
 
-🎓 Completing my master’s research project
-💻 Building [Goals](https://trygoals.co/) — a social fitness accountability app for iOS
+- 🎓 Completing my master’s research project
+- 💻 Building [Goals](https://trygoals.co/) — a social fitness accountability app for iOS
 
 Check out my [personal website!](https://davidharvey.co/)
 
