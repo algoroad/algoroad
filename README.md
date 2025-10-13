@@ -40,7 +40,7 @@ Check out my [personal website!](https://davidharvey.co/)
 [Outfitt](https://apps.apple.com/app/outfitt-dress-well/id6749678330): Personal AI Fashion Assistant (React Native, Swift, Expo, Typescript, PostgreSQL, Python, Replicate)
 (live on the app store! 🥳)
 
-[Dropshark](dropshark-ciqd4b5t8-my-team-9beb65ae.vercel.app): Create Shopify Product Pages With AI (NextJS, Flask, Python, Javascript, Tailwind, Shopify API, Firebase)
+[Dropshark](https://dropshark-ciqd4b5t8-my-team-9beb65ae.vercel.app): Create Shopify Product Pages With AI (NextJS, Flask, Python, Javascript, Tailwind, Shopify API, Firebase)
 (Includes Custom Cloud-Run Web Scraping Proxy and License Key Infrastructure)
 
 [Workbench](https://polite-medovik-52ef87.netlify.app/): Turn user stories into web apps in seconds (Python, NextJS, MongoDB, SQL, Typescript, Javascript, Heroku, Github API)
