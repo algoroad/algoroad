@@ -6,7 +6,7 @@ I am a Computer Science Masters student at Queen Mary University of London, pass
 ## 🚀 What I'm Up To
 
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
-- 💻 Working on Goals, an IOS social fitness accountability app.
+- 💻 Working on [Goals](https://trygoals.co/), an IOS social fitness accountability app.
 
 Check out my [personal website!](https://davidharvey.co/)
 
