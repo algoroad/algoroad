@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm David Harvey</h1>
 
 # 💫 About Me:
-I am a Computer Science Masters student at Queen Mary University of London, passionate about exploring the realms of coding, machine learning, and building robust applications.
+I am a Computer Science Masters student at Queen Mary University of London, passionate about developing products built using cutting edge technology that have a signficant and positive impact on the world. I'm especially interested in AI, GPUs, robotics, game-theory, quantum computing and cybersecurity.
 
 ## 🚀 What I'm Up To
 
