@@ -34,7 +34,21 @@ Check out my [personal website!](https://davidharvey.co/)
 - 🏗️ [Stealthfolio]([https://ethglobal.com/showcase/mystic-dex-me14f](https://github.com/SwineCoder101/stealthfolio))
 - 🏆 Solana - 1st Place
 - 📅 February 2024
-- 
+
+## 🌐 Products I've Released: 
+
+Dropshark
+
+Workbench
+
+## 🌐 Other Projects I'm Proud Of: 
+
+RNN Trading Algorithm
+
+In Ear Language Translation Headset
+
+Percy AI
+
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daviddharvey/)
 
