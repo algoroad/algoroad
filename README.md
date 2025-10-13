@@ -23,9 +23,11 @@ Check out my [personal website!](https://davidharvey.co/)
 - 📅 July 2024
 
 **ETH Global Hackathon - ETH Global London**
-- 🏗️ [Zycket](https://ethglobal.com/showcase/zycket-hxc9f)
-- 🏆 Chiliz - Pool Prize
-- 🏆 Arbitrum - Qualifying Arbitrum
+- 🏗️ [MysticDEX](https://ethglobal.com/showcase/mystic-dex-me14f)
+- 🏆 Hyperlane - Best Permissionless Use of Hyperlane
+- 🏆 Nethermind - Institutional Blockchain Solutions
+- 🏆 Fhenix - Best use of Fhenix Stack
+- 🏆 Worldcoin - Pool Prize
 - 📅 March 2024
 
 ## 🌐 Connect with me:
