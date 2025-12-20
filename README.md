@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋 I'm David Harvey</h1>
 
-# 💫 About Me:
+# About Me:
 I’m an MSc Computer Science student at Queen Mary University of London, passionate about building products with cutting-edge technology that make a meaningful impact. My interests span AI, GPUs, robotics, game theory, quantum computing, and cybersecurity.
 
-## 🚀 What I'm Up To
+## What I'm Up To
 
 - 🎓 Completing my master’s research project
 - 💻 Building [Goals](https://trygoals.co/) — a social fitness accountability app for iOS
 
 
-## 🏆 Honors & Awards
+## Honors & Awards
 
 **ETH Global Hackathon - ETH Global Brussels**
 - 🏗️ [Net Zero](https://ethglobal.com/showcase/net-zero-msor7)
@@ -33,16 +33,16 @@ I’m an MSc Computer Science student at Queen Mary University of London, passio
 - 🏆 Solana - 1st Place
 - 📅 February 2024
 
-## 💡 Products I've Released: 
+## Products I've Released: 
 
-🧥 [Outfitt](https://apps.apple.com/app/outfitt-dress-well/id6749678330): AI-powered personal fashion stylist (React Native, Swift, TypeScript, PostgreSQL, Supabase, Python, Replicate) <br/> *Now live on the App Store.*
+🧥 [Mode](https://apps.apple.com/app/outfitt-dress-well/id6749678330): AI personal stylist (React Native, Swift, TypeScript, PostgreSQL, Supabase, Python, Replicate) <br/> *Now live on the App Store.*
 
 🛍️ [Dropshark](https://dropshark.vercel.app): AI for Shopify Product Pages (NextJS, Flask, Python, Javascript, Tailwind, Shopify API, Firebase) <br/> *Features a custom Cloud Run web-scraping proxy and license-key infrastructure.*
 
 ⚙️ [Workbench](https://polite-medovik-52ef87.netlify.app/): Turn user stories into deployable web apps (Python, NextJS, MongoDB, SQL, Typescript, Javascript, Heroku, Github API)  <br/> *Automatically creates a GitHub repository so the app can run with a single command.*
 
 
-## 🔬 Other Projects I'm Proud Of: 
+## Other Projects I'm Proud Of: 
 
 - 🥉 [Kaggle IEEE Fraud Detection](https://www.kaggle.com/certification/competitions/optimalfit/ieee-fraud-detection): Bronze Medal – predictive modeling using ensemble techniques
 - 💹 [RNN Trading Infrastructure](https://davidharvey.io/rnn-stock-forex-infrastructure/): Automated trading system using TensorFlow and MetaTrader4
@@ -50,10 +50,10 @@ I’m an MSc Computer Science student at Queen Mary University of London, passio
 - 🎧 [In-Ear Language Translation Headset](https://davidharvey.io/on-the-move-language-translation/): Real-time language translation prototype
 - 🧾 [Percy](https://davidharvey.io/percy-receipt-data-extraction-ai/): AI pipeline for automatic receipt and invoice parsing
 
-## 🌐 Connect with me:
+## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daviddharvey/)
 
-# 💻 Tech Stack:
+# Tech Stack:
 Languages: 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
