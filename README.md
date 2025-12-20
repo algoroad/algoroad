@@ -3,8 +3,8 @@ I’m an MSc Computer Science student at Queen Mary University of London, passio
 
 ## What I'm Up To
 
-- 🎓 Completing my master’s research project
-- 💻 Building [Goals](https://trygoals.co/) — a social fitness accountability app for iOS
+- Studying for my masters degree
+- Building [Goals](https://trygoals.co/)
 
 
 ## Honors & Awards
@@ -33,11 +33,11 @@ I’m an MSc Computer Science student at Queen Mary University of London, passio
 
 ## Products I've Released: 
 
-🧥 [Mode](https://apps.apple.com/app/outfitt-dress-well/id6749678330): AI personal stylist (React Native, Swift, TypeScript, PostgreSQL, Supabase, Python, Replicate) <br/> *Now live on the App Store.*
+[Mode](https://apps.apple.com/app/outfitt-dress-well/id6749678330): AI personal stylist (React Native, Swift, TypeScript, PostgreSQL, Supabase, Python, Replicate) <br/> *Now live on the App Store.*
 
-🛍️ [Dropshark](https://dropshark.vercel.app): AI for Shopify Product Pages (NextJS, Flask, Python, Javascript, Tailwind, Shopify API, Firebase) <br/> *Features a custom Cloud Run web-scraping proxy and license-key infrastructure.*
+[Dropshark](https://dropshark.vercel.app): AI for Shopify Product Pages (NextJS, Flask, Python, Javascript, Tailwind, Shopify API, Firebase) <br/> *Features a custom Cloud Run web-scraping proxy and license-key infrastructure.*
 
-⚙️ [Workbench](https://polite-medovik-52ef87.netlify.app/): Turn user stories into deployable web apps (Python, NextJS, MongoDB, SQL, Typescript, Javascript, Heroku, Github API)  <br/> *Automatically creates a GitHub repository so the app can run with a single command.*
+[Workbench](https://polite-medovik-52ef87.netlify.app/): Turn user stories into deployable web apps (Python, NextJS, MongoDB, SQL, Typescript, Javascript, Heroku, Github API)  <br/> *Automatically creates a GitHub repository so the app can run with a single command.*
 
 
 ## Other Projects I'm Proud Of: 
