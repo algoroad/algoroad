@@ -39,10 +39,10 @@ I’m an MSc Computer Science student at Queen Mary University of London, passio
 ## Other Projects I'm Proud Of: 
 
 - 🥉 [Kaggle IEEE Fraud Detection](https://www.kaggle.com/certification/competitions/optimalfit/ieee-fraud-detection): Bronze Medal – predictive modeling using ensemble techniques
-- 💹 [RNN Trading Infrastructure](https://davidharvey.io/rnn-stock-forex-infrastructure/): Automated trading system using TensorFlow and MetaTrader4
+- 💹 [RNN Trading Infrastructure](https://davidharvey.co/rnn-stock-forex-infrastructure/): Automated trading system using TensorFlow and MetaTrader4
 - 🌍 [Atmos](https://heyatmos.com): CSRD reporting platform (discontinued) — pitched to VCs and ran a successful B2B campaign
-- 🎧 [In-Ear Language Translation Headset](https://davidharvey.io/on-the-move-language-translation/): Real-time language translation prototype
-- 🧾 [Percy](https://davidharvey.io/percy-receipt-data-extraction-ai/): AI pipeline for automatic receipt and invoice parsing
+- 🎧 [In-Ear Language Translation Headset](https://davidharvey.co/on-the-move-language-translation/): Real-time language translation prototype
+- 🧾 [Percy](https://davidharvey.co/percy-receipt-data-extraction-ai/): AI pipeline for automatic receipt and invoice parsing
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daviddharvey/)
