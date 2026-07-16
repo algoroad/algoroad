@@ -1,5 +1,5 @@
 # About Me:
-I’m an MSc Computer Science student at Queen Mary University of London, passionate about building products with cutting-edge technology that make a meaningful impact. My interests span AI, GPUs, robotics, game theory, quantum computing, and cybersecurity.
+I’m an MSc Computer Science student at Queen Mary University of London, passionate about building products with cutting-edge technology that make a meaningful impact. I'm especially interested in AI, GPUs, robotics, game theory, quantum computing, and cybersecurity.
 
 ## Honors & Awards
 
