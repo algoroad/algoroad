@@ -26,6 +26,9 @@ I’m an MSc Computer Science student at Queen Mary University of London, passio
 - 📅 February 2024
 
 ## Products I've Released: 
+
+Co-founded 'Zoned', acquired Aug 2026
+
 [Goals](https://www.trygoals.co) Fitness Accountability App
 *Now live on the App Store.*
 
