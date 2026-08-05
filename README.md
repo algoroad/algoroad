@@ -30,7 +30,7 @@ I’m an MSc Computer Science student at Queen Mary University of London, passio
 Co-founded 'Zoned', acquired Aug 2026
 
 [Goals](https://www.trygoals.co) Fitness Accountability App
-*Now live on the App Store.*
+<br /> *Now live on the App Store.*
 
 [Mode](https://apps.apple.com/app/outfitt-dress-well/id6749678330): AI personal stylist (React Native, Swift, TypeScript, PostgreSQL, Supabase, Python, Replicate) <br/> *Now live on the App Store.*
 
