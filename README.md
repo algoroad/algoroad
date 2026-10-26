@@ -15,34 +15,31 @@ I'm passionate about using technology, problem solving and creativity to build p
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,cpp,ts,nextjs,nodejs,nestjs,react,postgres,mysql,docker,aws,git,github,linux&perline=9" alt="Core technology icons" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Web-Next.js%20%7C%20React%20%7C%20Node.js%20%7C%20FastAPI-0f172a?style=flat-square" alt="Web stack" />
+  <img src="https://img.shields.io/badge/Mobile-React%20Native%20%7C%20Swift%20%7C%20Expo-1e293b?style=flat-square" alt="Mobile stack" />
+  <img src="https://img.shields.io/badge/AI-LLM%20APIs%20%7C%20Agents%20%7C%20RAG%20%7C%20Evals-334155?style=flat-square" alt="AI stack" />
+  <img src="https://img.shields.io/badge/Edge%20ML-k--NN%20%7C%20Kalman%20Filtering%20%7C%20BLE-475569?style=flat-square" alt="Edge ML stack" />
+  <img src="https://img.shields.io/badge/Product-User%20Research%20%7C%20Prototyping%20%7C%20Agile-64748b?style=flat-square" alt="Product skills" />
+</p>
 
 ## Honors & Awards
 
-**ETH Global Hackathon - ETH Global Brussels**
+**ETH Global Hackathon - ETH Global Brussels** (📅 July 2024)
 - 🏗️ [Net Zero](https://ethglobal.com/showcase/net-zero-msor7)
-- 🏆 Flare Network - Most Innovative Application
-- 🏆 Celo - Best dApps Built for MiniPay
-- 🏆 Hyperlane - Best Use of Hyperlane
-- 🏆 Arbitrum - Stylus Project
-- 🏆 Blockscout - Pool Prize
-- 📅 July 2024
+- 🏆 Flare Network - Most Innovative Application, Celo - Best dApps Built for MiniPay, Hyperlane - Best Use of Hyperlane, Arbitrum - Stylus Project, Blockscout - Pool Prize
 
-**ETH Global Hackathon - ETH Global London**
+**ETH Global Hackathon - ETH Global London** (📅 March 2024)
 - 🏗️ [MysticDEX](https://ethglobal.com/showcase/mystic-dex-me14f)
-- 🏆 Hyperlane - Best Permissionless Use of Hyperlane
-- 🏆 Nethermind - Institutional Blockchain Solutions
-- 🏆 Fhenix - Best use of Fhenix Stack
-- 🏆 Worldcoin - Pool Prize
-- 📅 March 2024
+- 🏆 Hyperlane - Best Permissionless Use of Hyperlane, Nethermind - Institutional Blockchain Solutions, Fhenix - Best use of Fhenix Stack, Worldcoin - Pool Prize
 
-**ETH Oxford**
+**ETH Oxford** (📅 February 2024)
 - 🏗️ [Stealthfolio](https://github.com/SwineCoder101/stealthfolio)
 - 🏆 Solana - 1st Place
-- 📅 February 2024
 
 ## Products I've Released: 
 
-Co-founded 'Zoned', acquired Aug 2026
+Co-founded 'Zoned', acquisition offer Aug 2026
 
 [Goals](https://www.trygoals.co): Fitness Accountability App
 <br /> *Now live on the App Store.*
@@ -62,13 +59,6 @@ Co-founded 'Zoned', acquired Aug 2026
 - 🎧 [In-Ear Language Translation Headset](https://davidharvey.co/on-the-move-language-translation/): Real-time language translation prototype
 - 🧾 [Percy](https://davidharvey.co/percy-receipt-data-extraction-ai/): AI pipeline for automatic receipt and invoice parsing
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Web-Next.js%20%7C%20React%20%7C%20Node.js%20%7C%20FastAPI-0f172a?style=flat-square" alt="Web stack" />
-  <img src="https://img.shields.io/badge/Mobile-React%20Native%20%7C%20Swift%20%7C%20Expo-1e293b?style=flat-square" alt="Mobile stack" />
-  <img src="https://img.shields.io/badge/AI-LLM%20APIs%20%7C%20Agents%20%7C%20RAG%20%7C%20Evals-334155?style=flat-square" alt="AI stack" />
-  <img src="https://img.shields.io/badge/Edge%20ML-k--NN%20%7C%20Kalman%20Filtering%20%7C%20BLE-475569?style=flat-square" alt="Edge ML stack" />
-  <img src="https://img.shields.io/badge/Product-User%20Research%20%7C%20Prototyping%20%7C%20Agile-64748b?style=flat-square" alt="Product skills" />
-</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=95&section=footer&color=0:14b8a6,55:2563eb,100:0f172a" alt="Footer wave" />
 </p>
