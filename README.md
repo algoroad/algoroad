@@ -1,6 +1,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,45:2563eb,100:14b8a6&text=David%20Harvey&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20and%20Product%20Manager&descAlignY=58&animation=fadeIn" alt="David Harvey profile header" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=900&color=14B8A6&center=true&vCenter=true&width=760&lines=From+user+research+to+production+code;Web%2C+mobile%2C+AI+and+hardware;Engineering+and+product%2C+end+to+end;London-based+ML%2FNLP+engineer+%2B+former+Konan+Technology+engineer" alt="Typing SVG" />
+</p>
+
+---
 
 I'm a **Software Engineer & Product Manager** with an **MSc in Computer Science (Distinction)** from **Queen Mary University of London**.
 
