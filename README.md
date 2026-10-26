@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,45:2563eb,100:14b8a6&text=David%20Harvey&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20and%20Product%20Manager&descAlignY=58&animation=fadeIn" alt="David Harvey profile header" />
 </p>
-
----
-
 I'm a **Software Engineer & Product Manager** with an **MSc in Computer Science (Distinction)** from **Queen Mary University of London**.
 
 I'm passionate about using technology, problem solving and creativity to build products that make a meaningful impact. Currently, I'm interested in AI engineering, robotics, GPUs, game theory, quantum computing and cybersecurity.
@@ -25,9 +22,6 @@ I'm passionate about using technology, problem solving and creativity to build p
   <img src="https://img.shields.io/badge/Edge%20ML-k--NN%20%7C%20Kalman%20Filtering%20%7C%20BLE-475569?style=flat-square" alt="Edge ML stack" />
   <img src="https://img.shields.io/badge/Product-User%20Research%20%7C%20Prototyping%20%7C%20Agile-64748b?style=flat-square" alt="Product skills" />
 </p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=95&section=footer&color=0:14b8a6,55:2563eb,100:0f172a" alt="Footer wave" />
 </p>
