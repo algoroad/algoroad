@@ -1,4 +1,5 @@
-# About Me:
+<img src="https://raw.githubusercontent.com/algoroad/algoroad/wave.gif" height="30px"> Hi, I’m David Harvey
+===============	
 I’m an MSc Computer Science student at Queen Mary University of London, passionate about building products with cutting-edge technology that make a meaningful impact. I'm especially interested in AI, GPUs, robotics, game theory, quantum computing, and cybersecurity.
 
 ## Honors & Awards
