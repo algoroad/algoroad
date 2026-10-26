@@ -4,4 +4,4 @@ I'm a **Software Engineer & Product Manager** with an **MSc in Computer Science 
 
 I'm passionate about using technology, problem solving and creativity to build products that make a meaningful impact. Currently, I'm interested in AI engineering, robotics, GPUs, game theory, quantum computing and cybersecurity.
 - 👔 Currently working as Founder @ <ins>Epoch IQ</ins>, building and shipping web and mobile apps
-- 🛠 Previously worked @ <ins>Goals Inc (Co-founder & CTO)</ins>, <ins>Amazon</ins> and <ins>Accenture</ins>:
+- 🛠 Previously worked @ <ins>Amazon</ins> and <ins>Accenture</ins>:
